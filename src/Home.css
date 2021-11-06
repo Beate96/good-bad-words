@@ -1,0 +1,17 @@
+.App {
+    padding-left: 3vh;
+    padding-right: 3vh;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    gap: 3vh;
+}
+
+/*.flex-column > div,
+.flex-column > button {
+    margin-top: 3vh;
+}*/
