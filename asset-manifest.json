@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/good-bad-words/static/css/main.df74b77c.chunk.css",
+    "main.js": "/good-bad-words/static/js/main.f751b8eb.chunk.js",
+    "main.js.map": "/good-bad-words/static/js/main.f751b8eb.chunk.js.map",
+    "runtime-main.js": "/good-bad-words/static/js/runtime-main.949e85bc.js",
+    "runtime-main.js.map": "/good-bad-words/static/js/runtime-main.949e85bc.js.map",
+    "static/js/2.1c887687.chunk.js": "/good-bad-words/static/js/2.1c887687.chunk.js",
+    "static/js/2.1c887687.chunk.js.map": "/good-bad-words/static/js/2.1c887687.chunk.js.map",
+    "static/js/3.dcf6fa04.chunk.js": "/good-bad-words/static/js/3.dcf6fa04.chunk.js",
+    "static/js/3.dcf6fa04.chunk.js.map": "/good-bad-words/static/js/3.dcf6fa04.chunk.js.map",
+    "index.html": "/good-bad-words/index.html",
+    "service-worker.js": "/good-bad-words/service-worker.js",
+    "service-worker.js.map": "/good-bad-words/service-worker.js.map",
+    "static/css/main.df74b77c.chunk.css.map": "/good-bad-words/static/css/main.df74b77c.chunk.css.map",
+    "static/js/2.1c887687.chunk.js.LICENSE.txt": "/good-bad-words/static/js/2.1c887687.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.949e85bc.js",
+    "static/js/2.1c887687.chunk.js",
+    "static/css/main.df74b77c.chunk.css",
+    "static/js/main.f751b8eb.chunk.js"
+  ]
+}
